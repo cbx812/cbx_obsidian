@@ -22,28 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "666-硕士学位论文/学位论文-聚脲基梯度材料增材制造原理及系统.md",
-      "timestamp": 1683276739700
-    },
-    {
-      "filepath": "666-硕士学位论文/未命名.md",
-      "timestamp": 1683276735770
-    },
-    {
-      "filepath": "100-硕士工作/polyflow分析模型_收纳.md",
-      "timestamp": 1683276726118
-    },
-    {
-      "filepath": "800-剪藏/Mermaid，就像用 Markdown 码字一样，高效制作简易流图.md",
-      "timestamp": 1683276723940
-    },
-    {
-      "filepath": "100-硕士工作/会议通知/CSA 固体火箭推进专委会第 39 届年会暨 CASC 科技委固体推进技术及火工品专业组 2022 年学术会议征文通知.md",
-      "timestamp": 1683276705836
-    }
-  ],
+  "recentFilesStore": [],
   "starredFileStore": [],
   "searchDelay": 200,
   "replaceNewTabs": true,
