@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Diary/2023-05-05.md",
+                "file": "20-Diary/2023-05-04.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Diary/2023-05-05.md"
+                "file": "20-Diary/2023-05-04.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2023-05-05.md",
+                "file": "20-Diary/2023-05-04.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20-Diary/2023-05-05.md",
+                "file": "20-Diary/2023-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,10 +234,10 @@
   },
   "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
-    "88-Template/常用工具.md",
-    "20-Diary/2023-05-04.md",
     "20-Diary/2023-05-05.md",
     "88-Template/home.md",
+    "88-Template/常用工具.md",
+    "20-Diary/2023-05-04.md",
     "20230505173802.md",
     "200-专业知识/流变学/Cox-Merz 定律与复数黏度.md",
     "200-专业知识/流变学/标准的流变学模型.md",
@@ -281,14 +281,4 @@
     "BT_Example/99-Attachment/banner/book.jpg",
     "BT_Example/99-Attachment/banner/banner5.jpg",
     "一句顶一万句/关系图谱.canvas",
-    "60-Canvas/TIPS.canvas",
-    "60-Canvas/Home_middle.canvas",
-    "60-Canvas/Formatting_Cheatsheet.canvas",
-    "60-Canvas/canvas白板介绍_middle.canvas",
-    "60-Canvas/示例库结构一览.canvas",
-    "60-Canvas/画板主页.canvas",
-    "60-Canvas/代码块相关样式_middle.canvas",
-    "未命名.canvas",
-    "未命名 1.canvas"
-  ]
-}
+    "60-Canvas/TIPS.canv
