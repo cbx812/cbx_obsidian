@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo Note.md",
-                "mode": "preview",
+                "file": "300-项目文件/复合固体推进剂智能制造原理样机.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo Note.md"
+                "file": "300-项目文件/复合固体推进剂智能制造原理样机.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo Note.md",
+                "file": "300-项目文件/复合固体推进剂智能制造原理样机.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo Note.md",
+                "file": "300-项目文件/复合固体推进剂智能制造原理样机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "37c8f55a8ef7a09c",
+  "active": "36b03fce0dffb86e",
   "lastOpenFiles": [
+    "自我介绍.md",
+    "Changlog.md",
+    "Demo Note.md",
     "WordDB.md",
     "zotero模板.md",
     "未命名 1.md",
@@ -249,9 +252,7 @@
     "README.md",
     "mytexttools.com.md",
     "Marilyn+Monroe+returns+to+the+big+screen+46732fb4-02f5-4e27-9937-197c77219a32.md",
-    "自我介绍.md",
     "dihqiohiod.md",
-    "Demo Note.md",
     "Dataview 卡片笔记.md",
     "Dataview 年月统计.md",
     "生词本.md",
@@ -269,7 +270,6 @@
     "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效.html",
     "SimpRead/output/2-我如何使用 Notion 管理简悦的一切.html",
     "SimpRead/output/2-我如何使用 Notion 管理简悦的一切@annote.html",
-    "SimpRead/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.md",
     "BT_Example/99-Attachment/banner/蓝山背景.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-zx89ew.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-kw96x7.jpg",
