@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Demo Note.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "Demo Note.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Demo Note.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Demo Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,8 +234,10 @@
   },
   "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
-    "88-Template/常用工具.md",
+    "WordDB.md",
+    "zotero模板.md",
     "未命名 1.md",
+    "88-Template/常用工具.md",
     "未命名 2.md",
     "哈工大面试准备.md",
     "600-写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md",
@@ -268,8 +270,6 @@
     "SimpRead/output/2-我如何使用 Notion 管理简悦的一切.html",
     "SimpRead/output/2-我如何使用 Notion 管理简悦的一切@annote.html",
     "SimpRead/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.md",
-    "SimpRead/6-用 Git 在 Android 和 Windows 间同步 Obsidian 数据库.md",
-    "SimpRead/5-使用本地图床优化 obsidian 的文件管理.md",
     "BT_Example/99-Attachment/banner/蓝山背景.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-zx89ew.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-kw96x7.jpg",
