@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "测试Al.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "测试Al.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "测试Al.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "测试Al.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "37c8f55a8ef7a09c",
+  "active": "36b03fce0dffb86e",
   "lastOpenFiles": [
+    "博士申请资料.md",
+    "README.md",
     "mytexttools.com.md",
     "Marilyn+Monroe+returns+to+the+big+screen+46732fb4-02f5-4e27-9937-197c77219a32.md",
     "自我介绍.md",
@@ -268,8 +270,6 @@
     "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.md",
     "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
     "Excalidraw/Drawing 2022-09-21 20.10.41.excalidraw.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/常用Dataview片段.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/入门到退坑系列.md",
     "BT_Example/99-Attachment/banner/蓝山背景.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-zx89ew.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-kw96x7.jpg",
