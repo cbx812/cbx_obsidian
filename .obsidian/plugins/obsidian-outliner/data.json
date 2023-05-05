@@ -1,0 +1,14 @@
+{
+  "styleLists": false,
+  "debug": false,
+  "stickCursor": true,
+  "betterEnter": false,
+  "betterTab": false,
+  "selectAll": true,
+  "listLines": false,
+  "listLineAction": "toggle-folding",
+  "dndExperiment": false,
+  "previousRelease": "4.6.3",
+  "hideWarning": false,
+  "disableZoomNotification": false
+}

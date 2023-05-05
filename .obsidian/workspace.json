@@ -1,52 +1,36 @@
 {
   "main": {
-    "id": "03c375859b181eaf",
+    "id": "e8b4ea94b39a8520",
     "type": "split",
     "children": [
       {
-        "id": "f2a763863d29fd99",
+        "id": "62863518eab7ab6e",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8105673c191ac8",
+            "id": "36b03fce0dffb86e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ceshi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2195f75c173a0a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dihqiohiod.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6da1915b063d2f55",
+    "id": "687357708cbc920f",
     "type": "split",
     "children": [
       {
-        "id": "c4afb1a897c658b0",
+        "id": "4bc1edcafd063cfb",
         "type": "tabs",
+        "dimension": 68.13048933500627,
         "children": [
           {
-            "id": "886b74fe0e6d8f9e",
+            "id": "37c8f55a8ef7a09c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +40,7 @@
             }
           },
           {
-            "id": "74c2c4bd789a4f08",
+            "id": "b3290ae399933a0b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,10 +55,33 @@
             }
           },
           {
-            "id": "9bd9f4f96e2b7056",
+            "id": "3d21402f76dc34c3",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2c2f4dfc8473d58",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d877e8285f98a38a",
+        "type": "tabs",
+        "dimension": 31.869510664993726,
+        "children": [
+          {
+            "id": "b37bc3d287f74512",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -82,26 +89,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.9945435523987
   },
   "right": {
-    "id": "e8bd94be6548b6ff",
+    "id": "4e390742ffc29613",
     "type": "split",
     "children": [
       {
-        "id": "c9101cf4fda35863",
+        "id": "d4c25b22f0c7d5f0",
         "type": "tabs",
+        "dimension": 36.340852130325814,
         "children": [
           {
-            "id": "58221e2eba824ec1",
+            "id": "ca4e910af4602420",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "340969ccd24905e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "83061aceea29f566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "88-Template/彩色时钟.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0b3485207df574dd",
+        "type": "tabs",
+        "dimension": 63.65914786967418,
+        "children": [
+          {
+            "id": "041c78328387b373",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dihqiohiod.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
@@ -110,19 +154,18 @@
             }
           },
           {
-            "id": "dcc0f2aba38085f7",
+            "id": "dc4a81bfd6624166",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dihqiohiod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "361c61e36ce5f645",
+            "id": "b2ae90cb6049dbe9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,36 +176,110 @@
             }
           },
           {
-            "id": "871fff64a9768e8f",
+            "id": "8851ccb0aa4e524a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "dihqiohiod.md"
-              }
+                "file": "88-Template/常用工具.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-weread-plugin:Weread": false,
+      "float-search:Search Obsidian In Modal": false,
+      "surfing:surfing-bookmark-manager": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today's daily note": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:显示当前文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-memos:Memos": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2195f75c173a0a45",
+  "active": "36b03fce0dffb86e",
   "lastOpenFiles": [
-    "ceshi.md",
-    "dihqiohiod.md",
-    "README.md"
+    "88-Template/home.md",
+    "✨-模板/A-日记模板.md",
+    "✨-模板/B-笔记模板.md",
+    "SimpRead/6-用 Git 在 Android 和 Windows 间同步 Obsidian 数据库.md",
+    "SimpRead/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.md",
+    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
+    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱@annote.md",
+    "88-Template/88-Template.md",
+    "未命名 1.md",
+    "未命名.md",
+    "666-硕士学位论文/致谢.md",
+    "666-硕士学位论文/polyflow分析模型_收纳.md",
+    "666-硕士学位论文/摘要.md",
+    "666-硕士学位论文/引言.md",
+    "500-6mm双螺杆设备/6mm传动齿轮.md",
+    "200-专业知识/螺杆知识整理/螺杆知识整理.md",
+    "200-专业知识/流变学/流变学.md",
+    "奖项.md",
+    "哈工大面试准备.md",
+    "导入模型.md",
+    "答疑兼职排班.md",
+    "口琴.md",
+    "考核记录.md",
+    "20-Diary/20-Diary.md",
+    "100-文献笔记/2022_Zheng_GPU-enhanced DEM ana_KEY-R6WUAT5S.md",
+    "100-文献笔记/2023_Xie_An approach to detec_KEY-2RBAYHT4.md",
+    "SimpRead/output/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.html",
+    "Recording 20230429215207.webm",
+    "SimpRead/output/6-用 Git 在 Android 和 Windows 间同步 Obsidian 数据库.html",
+    "✨-模板",
+    "SimpRead/output/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.html",
+    "SimpRead/output/5-使用本地图床优化 obsidian 的文件管理@annote.html",
+    "SimpRead/output/5-使用本地图床优化 obsidian 的文件管理.html",
+    "SimpRead/output/6-明天五一，今天如何光速下班？这班多上 1 秒就要爆炸___@annote.html",
+    "SimpRead/output/6-明天五一，今天如何光速下班？这班多上 1 秒就要爆炸___.html",
+    "WuCai/2023/04",
+    "一句顶一万句/关系图谱.canvas",
+    "BT_Example/99-Attachment/banner/wallhaven-zx89ew.jpg",
+    "BT_Example/99-Attachment/banner/蓝山背景.jpg",
+    "BT_Example/99-Attachment/banner/wallhaven-kw96x7.jpg",
+    "BT_Example/99-Attachment/banner/wallhaven-0po71e.jpg",
+    "BT_Example/99-Attachment/banner/v2-4b004937cb577df39e424172ee476d1b_r.jpg",
+    "BT_Example/99-Attachment/banner/true.jpg",
+    "BT_Example/99-Attachment/banner/todaybing-hd-VmXsMGUz-2016-02-25.jpg",
+    "BT_Example/99-Attachment/banner/thumb-1920-1200477.jpg",
+    "BT_Example/99-Attachment/banner/book.jpg",
+    "BT_Example/99-Attachment/banner/banner5.jpg",
+    "60-Canvas/TIPS.canvas",
+    "60-Canvas/Home_middle.canvas",
+    "60-Canvas/Formatting_Cheatsheet.canvas",
+    "60-Canvas/canvas白板介绍_middle.canvas",
+    "60-Canvas/示例库结构一览.canvas",
+    "60-Canvas/画板主页.canvas",
+    "60-Canvas/代码块相关样式_middle.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas"
   ]
 }

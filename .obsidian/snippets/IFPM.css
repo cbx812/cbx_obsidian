@@ -1,0 +1,23 @@
+/*--DKLN-V1.2.5-IFPM--*/
+table {
+  margin: auto; /*基础表格居中*/
+}
+div span.highlight {
+  color: black; /*批注高亮内文本黑色*/
+}
+div > div.block-language-dataviewjs > select,
+div > div.block-language-dataviewjs > input {
+  color: darkcyan; /*Dataview&metaedit: 颜色*/
+  width: 15em; /*Dataview&metaedit: 宽度*/
+}
+li.dataview-result-list-li {
+  min-width: 15em;/*Dataview: 最小列宽15可变字宽*/
+  display: inline-table; /*Dataview: 破行/大括号/list-mark标记*/
+  line-height: 1.1em; /*Dataview: 行高紧凑*/
+}
+tbody.table-view-tbody tr td {
+  vertical-align: top; /*Dataview: 表内顶部对齐*/
+}
+tr.table-view-tr-header th.table-view-th {
+  text-align: center; /*Dataview: 表头居中*/
+}

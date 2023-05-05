@@ -1,0 +1,46 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "search",
+    "imagePath": "",
+    "imageLink": "http://www.baidu.com"
+  },
+  "logoScale": 1,
+  "iconColorType": "default",
+  "wordmark": "Blue Topaz Example",
+  "customFont": "interfaceFont",
+  "fontSize": "3em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": false,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "88-Template/home.md",
+      "timestamp": 1683260659492
+    },
+    {
+      "filepath": "✨-模板/A-日记模板.md",
+      "timestamp": 1683195792040
+    },
+    {
+      "filepath": "✨-模板/B-笔记模板.md",
+      "timestamp": 1683188979968
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 200,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "霞鹜文楷"
+}
