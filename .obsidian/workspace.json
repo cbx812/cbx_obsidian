@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "62863518eab7ab6e",
+        "id": "c21672f765e5b66a",
         "type": "tabs",
         "children": [
           {
-            "id": "36b03fce0dffb86e",
+            "id": "ebf9343d44ed9338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
+                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,15 +232,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "36b03fce0dffb86e",
+  "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
+    "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
+    "800-剪藏/前方高能！我国驯服炸药之王CL-20- X-MOL资讯.md",
+    "800-剪藏/Xplore 微型双螺杆挤出机-价格-亚铭（北京）科技有限公司.md",
+    "800-剪藏/CSA 固体火箭推进专委会第 39 届年会暨 CASC 科技委固体推进技术及火工品专业组 2022 年学术会议征文通知.md",
+    "800-剪藏/Mermaid，就像用 Markdown 码字一样，高效制作简易流图.md",
+    "20230505154704.md",
+    "SimpRead/8-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
+    "SimpRead/output/8-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.html",
+    "SimpRead/11-用更现代的方式做任务管理.md",
+    "SimpRead/11-用更现代的方式做任务管理@annote.md",
+    "未命名 1.md",
+    "SimpRead/11-用更现代的方式做任务管理.html",
     "300-项目文件/复合固体推进剂智能制造原理样机.md",
     "自我介绍.md",
     "Changlog.md",
     "Demo Note.md",
     "WordDB.md",
     "zotero模板.md",
-    "未命名 1.md",
     "88-Template/常用工具.md",
     "未命名 2.md",
     "哈工大面试准备.md",
@@ -251,15 +262,6 @@
     "测试Al.md",
     "博士申请资料.md",
     "README.md",
-    "mytexttools.com.md",
-    "Marilyn+Monroe+returns+to+the+big+screen+46732fb4-02f5-4e27-9937-197c77219a32.md",
-    "dihqiohiod.md",
-    "Dataview 卡片笔记.md",
-    "Dataview 年月统计.md",
-    "生词本.md",
-    "外放热涂层.md",
-    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱@annote.md",
-    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
     "SimpRead/output/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.html",
     "SimpRead/output/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.html",
     "SimpRead/output/6-用 Git 在 Android 和 Windows 间同步 Obsidian 数据库.html",
@@ -268,8 +270,6 @@
     "SimpRead/output/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读@annote.html",
     "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.html",
     "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效.html",
-    "SimpRead/output/2-我如何使用 Notion 管理简悦的一切.html",
-    "SimpRead/output/2-我如何使用 Notion 管理简悦的一切@annote.html",
     "BT_Example/99-Attachment/banner/蓝山背景.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-zx89ew.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-kw96x7.jpg",
