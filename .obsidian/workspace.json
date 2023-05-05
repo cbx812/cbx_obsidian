@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试Al.md",
+                "file": "600-写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试Al.md"
+                "file": "600-写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试Al.md",
+                "file": "600-写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试Al.md",
+                "file": "600-写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "36b03fce0dffb86e",
+  "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
+    "600-写作内容/专利技术交底书模板.md",
+    "500-6mm双螺杆设备/6mm单螺杆.md",
+    "500-6mm双螺杆设备/6mm传动齿轮.md",
+    "测试Al.md",
     "博士申请资料.md",
     "README.md",
     "mytexttools.com.md",
@@ -266,10 +270,6 @@
     "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md",
     "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效.md",
     "SimpRead/2-我如何使用 Notion 管理简悦的一切@annote.md",
-    "SimpRead/2-我如何使用 Notion 管理简悦的一切.md",
-    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.md",
-    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
-    "Excalidraw/Drawing 2022-09-21 20.10.41.excalidraw.md",
     "BT_Example/99-Attachment/banner/蓝山背景.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-zx89ew.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-kw96x7.jpg",
