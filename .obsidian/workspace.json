@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +225,15 @@
   },
   "active": "36b03fce0dffb86e",
   "lastOpenFiles": [
+    "dihqiohiod.md",
+    "Demo Note.md",
+    "Dataview 卡片笔记.md",
+    "Dataview 年月统计.md",
+    "生词本.md",
+    "外放热涂层.md",
+    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱@annote.md",
+    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
+    "科研上最忌讳的事情有哪些？.md",
     "SimpRead/output/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.html",
     "SimpRead/output/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.html",
     "SimpRead/output/6-用 Git 在 Android 和 Windows 间同步 Obsidian 数据库.html",
@@ -235,9 +244,6 @@
     "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效.html",
     "SimpRead/output/2-我如何使用 Notion 管理简悦的一切.html",
     "SimpRead/output/2-我如何使用 Notion 管理简悦的一切@annote.html",
-    "SimpRead/output/1-本地存储 + 线上获取：我的个人数据库建构路径.html",
-    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱@annote.md",
-    "SimpRead/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
     "SimpRead/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.md",
     "SimpRead/6-用 Git 在 Android 和 Windows 间同步 Obsidian 数据库.md",
     "SimpRead/5-使用本地图床优化 obsidian 的文件管理.md",
@@ -255,12 +261,6 @@
     "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/TODOs with text-based Countdown.md",
     "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Today in the past.md",
     "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Today's Notes.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Tags by numeric order.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Tags by Top Level Directories.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Tag Context.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Reference Arbitrary file relatively with File URL.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Section Pseudo-Embed.md",
-    "BT_Example/10-Help/Dataview系列教程/入门到退坑系列/Recent Notes.md",
     "BT_Example/99-Attachment/banner/蓝山背景.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-zx89ew.jpg",
     "BT_Example/99-Attachment/banner/wallhaven-kw96x7.jpg",
