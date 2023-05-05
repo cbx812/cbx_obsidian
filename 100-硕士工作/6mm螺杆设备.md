@@ -1,19 +1,19 @@
 ---
-title: 6mm自由容积
-chapter:
+UID: 20230505162303 
+aliases: 
 tags: 
  - 螺杆
- - 双螺杆
- - 6mm双螺杆
- - 6mm双螺杆参数计算
-aliases:
- - 6mm双螺杆自由容积
- - 自由容积参数计算
-center: false
-width: 827
-height: 1170
+ - 6mm螺杆设备
+source: 
+cssclass: 
+created: 2023-05-05
 ---
 
+# 6 mm单螺杆
+
+# 6 mm双螺杆
+
+# 6 mm设备自由容积
 ## 单螺杆
 
 <img src="https://i0.hdslb.com/bfs/album/c38182727a78065d08f6d9670579b10b9379a381.png" style="zoom:60%;" />
@@ -26,11 +26,6 @@ $$
 <img src="https://i0.hdslb.com/bfs/album/273385cfd6684b9f9108e2e5ded7afd469648770.png" style="zoom:60%;" />
 
 螺杆体积$V_{单螺杆}=901.549 mm^3=0.90 cm^3$
-
-
-
-
----
 
 ## 双螺杆
 
