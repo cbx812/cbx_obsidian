@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "未命名 1.md",
-      "timestamp": 1683269779103
+      "timestamp": 1683270333268
+    },
+    {
+      "filepath": "88-Template/常用工具.md",
+      "timestamp": 1683270331754
     },
     {
       "filepath": "未命名 2.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "600-写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md",
       "timestamp": 1683269661084
-    },
-    {
-      "filepath": "600-写作内容/专利技术交底书模板.md",
-      "timestamp": 1683269658367
     }
   ],
   "starredFileStore": [],
