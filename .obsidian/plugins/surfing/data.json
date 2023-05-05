@@ -36,17 +36,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "1259409f099b8c5c",
-      "parent": 0,
-      "droppable": true,
-      "text": "New Tab",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

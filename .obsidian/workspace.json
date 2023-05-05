@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c21672f765e5b66a",
+        "id": "5e5c5fb86575c747",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf9343d44ed9338",
+            "id": "80430a4f104c0c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-硕士工作/6mm螺杆设备.md",
+                "file": "20-Diary/2023-05-05.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -32,7 +32,7 @@
       {
         "id": "4bc1edcafd063cfb",
         "type": "tabs",
-        "dimension": 68.13725490196079,
+        "dimension": 68.13048933500627,
         "children": [
           {
             "id": "37c8f55a8ef7a09c",
@@ -80,7 +80,7 @@
       {
         "id": "d877e8285f98a38a",
         "type": "tabs",
-        "dimension": 31.862745098039213,
+        "dimension": 31.869510664993726,
         "children": [
           {
             "id": "b37bc3d287f74512",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-硕士工作/6mm螺杆设备.md"
+                "file": "20-Diary/2023-05-05.md"
               }
             }
           },
@@ -136,8 +136,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0b3485207df574dd",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-硕士工作/6mm螺杆设备.md",
+                "file": "20-Diary/2023-05-05.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100-硕士工作/6mm螺杆设备.md",
+                "file": "20-Diary/2023-05-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,12 +227,24 @@
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-memos:Memos": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "todoist-completed-tasks-plugin:Fetch today's completed tasks": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
+    "88-Template/常用工具.md",
+    "20-Diary/2023-05-04.md",
+    "20-Diary/2023-05-05.md",
+    "88-Template/home.md",
+    "20230505173802.md",
+    "200-专业知识/流变学/Cox-Merz 定律与复数黏度.md",
+    "200-专业知识/流变学/标准的流变学模型.md",
+    "200-专业知识/流变学/流变学.md",
+    "100-硕士工作/6mm螺杆设备.md",
+    "100-硕士工作/polyflow分析模型_收纳.md",
+    "500-6mm双螺杆设备/光学立柱.md",
     "100-硕士工作/写作内容/调研素材-螺杆挤出式增材制造设备研究现状.md",
     "100-硕士工作/写作内容/调研-微型螺杆设备.md",
     "100-硕士工作/写作内容/燃烧室内绝热层3D打印成形技术.md",
@@ -249,18 +260,7 @@
     "100-硕士工作/写作内容/专利-一种各向异性复合推进剂增材制造方法及装置.md",
     "100-硕士工作/写作内容/专利技术交底书模板.md",
     "100-硕士工作/写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md",
-    "100-硕士工作/写作内容/一种聚脲推进剂3D打印系统-技术交底书.md",
     "100-硕士工作/写作内容",
-    "100-硕士工作/600-写作内容/调研-复合推进剂变组分连续混合效率及均匀度检测方法.md",
-    "100-硕士工作/600-写作内容/素材-6mm双螺杆设备.md",
-    "100-硕士工作/600-写作内容/调研素材-螺杆挤出式增材制造设备研究现状.md",
-    "100-硕士工作/600-写作内容/用于增材制造的聚脲粘合剂.md",
-    "100-硕士工作/600-写作内容/调研-微型螺杆设备.md",
-    "100-硕士工作/600-写作内容/燃烧室内绝热层3D打印成形技术.md",
-    "100-硕士工作/600-写作内容/增材制造聚合物功能梯度材料研究进展.md",
-    "100-硕士工作/600-写作内容/数学模型.md",
-    "100-硕士工作/600-写作内容/固体火箭技术投稿.md",
-    "100-硕士工作/600-写作内容/增材制造在推进剂加工中的应用.md",
     "100-硕士工作/600-写作内容",
     "100-硕士工作/会议通知",
     "会议通知",

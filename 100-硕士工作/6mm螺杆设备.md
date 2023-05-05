@@ -124,7 +124,6 @@ $$
 通过几何计算确定截面面积
 
 <img src="https://obsidian0915.oss-cn-chengdu.aliyuncs.com/img/202206122100574.svg" style="zoom:50%;" />
-
 $$
 OO' =5.75mm
 $$
@@ -185,3 +184,12 @@ $$
 |    齿数    |    60齿    |
 |    供电    |    ±12V    |
 
+## 光学立柱
+
+
+GCM-5328M+GCM-030625M+GCM-030632M
+[大恒光电 GCM-532系列叉式压板教学器材-tmall.com天猫](https://detail.tmall.com/item.htm?spm=3102m.1.14.3.1fca33bc4SOwof&id=577946892359&ns=1&abbucket=3&skuId=4201956402300)
+[大恒光电 GCM-03012Φ25.4系列不锈钢立柱教学器材-tmall.com天猫](https://detail.tmall.com/item.htm?id=578078751993&spm=4893t.1000855.1998099587.1.70fb65cbjeR3mC&skuId=4034452305082)
+
+![](https://img.alicdn.com/imgextra/i1/4071662841/O1CN01L9eU2L1WrDkZZfdQn_!!4071662841.jpg)
+![O1CN01xf8pca1WrDkb8c7bz_!!4071662841.jpg (990×680) (alicdn.com)](https://img.alicdn.com/imgextra/i3/4071662841/O1CN01xf8pca1WrDkb8c7bz_!!4071662841.jpg)

@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "20-Diary/2023-05-05.md",
+      "timestamp": 1683280275070
+    },
+    {
+      "filepath": "88-Template/常用工具.md",
+      "timestamp": 1683280260971
+    },
+    {
+      "filepath": "20-Diary/2023-05-04.md",
+      "timestamp": 1683280213603
+    },
+    {
+      "filepath": "88-Template/home.md",
+      "timestamp": 1683280175935
+    },
+    {
+      "filepath": "20230505173802.md",
+      "timestamp": 1683279480496
+    }
+  ],
   "starredFileStore": [],
   "searchDelay": 200,
   "replaceNewTabs": true,
