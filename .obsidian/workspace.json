@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
+                "file": "300-项目文件/彩色梯度打印.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md"
+                "file": "300-项目文件/彩色梯度打印.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
+                "file": "300-项目文件/彩色梯度打印.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
+                "file": "300-项目文件/彩色梯度打印.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,34 +234,34 @@
   },
   "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
-    "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
-    "800-剪藏/前方高能！我国驯服炸药之王CL-20- X-MOL资讯.md",
-    "800-剪藏/Xplore 微型双螺杆挤出机-价格-亚铭（北京）科技有限公司.md",
-    "800-剪藏/CSA 固体火箭推进专委会第 39 届年会暨 CASC 科技委固体推进技术及火工品专业组 2022 年学术会议征文通知.md",
-    "800-剪藏/Mermaid，就像用 Markdown 码字一样，高效制作简易流图.md",
-    "20230505154704.md",
-    "SimpRead/8-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
-    "SimpRead/output/8-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.html",
-    "SimpRead/11-用更现代的方式做任务管理.md",
-    "SimpRead/11-用更现代的方式做任务管理@annote.md",
-    "未命名 1.md",
-    "SimpRead/11-用更现代的方式做任务管理.html",
     "300-项目文件/复合固体推进剂智能制造原理样机.md",
-    "自我介绍.md",
-    "Changlog.md",
-    "Demo Note.md",
-    "WordDB.md",
-    "zotero模板.md",
-    "88-Template/常用工具.md",
-    "未命名 2.md",
-    "哈工大面试准备.md",
-    "600-写作内容/专利-一种功能梯度复合推进剂增材制造装置及方法.md",
-    "600-写作内容/专利技术交底书模板.md",
+    "300-项目文件/绝热层数学模型.md",
+    "300-项目文件/173-参考tuomi.md",
+    "SimpRead/5-使用本地图床优化 obsidian 的文件管理.md",
+    "SimpRead/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.md",
+    "SimpRead/8-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
+    "300-项目文件/jnxxx增材制造.md",
+    "300-项目文件/EDEM粒子路径.md",
+    "300-项目文件/颗粒运动拍摄.md",
+    "600-写作内容/调研素材-螺杆挤出式增材制造设备研究现状.md",
+    "600-写作内容/分会场交流讲稿.md",
+    "500-6mm双螺杆设备/6mm双螺杆.md",
+    "500-6mm双螺杆设备/6mm螺杆装置专利图.md",
     "500-6mm双螺杆设备/6mm单螺杆.md",
     "500-6mm双螺杆设备/6mm传动齿轮.md",
-    "测试Al.md",
-    "博士申请资料.md",
-    "README.md",
+    "410-微型螺杆设备/ME7.5.md",
+    "410-微型螺杆设备/Three-Tec_ZE-5.md",
+    "800-剪藏/国家重点研发计划 “增材制造与激光制造” 等重点专项 2022 年度项目申报指南.md",
+    "800-剪藏/前方高能！我国驯服炸药之王CL-20- X-MOL资讯.md",
+    "800-剪藏/高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.md",
+    "800-剪藏/个人知识库搭建｜Logseq + 简悦 完全指南.md",
+    "800-剪藏/增材制造路线图：迈向智能化、信息化和工业化.md",
+    "800-剪藏/CSA 固体火箭推进专委会第 39 届年会暨 CASC 科技委固体推进技术及火工品专业组 2022 年学术会议征文通知.md",
+    "800-剪藏/Mermaid，就像用 Markdown 码字一样，高效制作简易流图.md",
+    "800-剪藏/2022国际防务技术大会会议通知暨征文通知（第二轮）.md",
+    "800-剪藏/如何使用 GitKraken 和 GitHub 来管理自己的代码.md",
+    "SimpRead/output/8-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.html",
+    "SimpRead/11-用更现代的方式做任务管理.html",
     "SimpRead/output/9-高校许多研究都带有极强的自我娱乐性和欺骗性，白白浪费钱.html",
     "SimpRead/output/7-【Obsidian 使用教學】筆記篇 01 — 了解 Obsidian 的 Metadata，建立一套可持續迭代的筆記系統 _ by 朱騏 _ PM 的生產力工具箱 _ Medium.html",
     "SimpRead/output/6-用 Git 在 Android 和 Windows 间同步 Obsidian 数据库.html",
